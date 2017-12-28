@@ -1,0 +1,10 @@
+16csr001	arthishree.r            management          yes     	      100000
+16csr002	arthi.b                 counselling         no      	      75000
+16csr003	aarthi.m                counselling         yes 	      55000
+16csr004	arthi.s                 counseling  	    no  	      75000
+16csr005	abarna.s                management 	    yes  	      100000
+16csr006	abdul rahman.i          counselling  	    no  	      75000
+16csr007	abinaya.cr              management 	    yes  	      100000
+16csr008	abinaya lalithambiga.r  management  	    yes  	      100000
+16csr009	abirami.p               counselling 	    yes  	      55000
+16csr010	abisheik.r              management  	    no  	      100000

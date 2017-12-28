@@ -1,0 +1,10 @@
+17csr001	arthishree.r            management          yes     	  100000
+17csr002	arthi.b                 counselling         no      	  75000
+17csr003	aarthi.m                counselling         yes 	      55000
+17csr004	arthi.s                 counseling  	    no  	      75000
+17csr005	abarna.s                management 	        yes  	      100000
+17csr006	abdul rahman.i          counselling  	    no  	      75000
+17csr007	abinaya.cr              management 	        yes  	      100000
+17csr008	abinaya lalithambiga.r  management  	    yes  	      100000
+17csr009	abirami.p               counselling 	    yes  	      55000
+17csr010	abisheik.r              management  	    no  	      100000
